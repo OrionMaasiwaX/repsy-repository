@@ -1,1 +1,5 @@
 .idea/
+file-system-storage/target/
+object-storage/target/
+repsy-rest-api/target/
+.DS_Store

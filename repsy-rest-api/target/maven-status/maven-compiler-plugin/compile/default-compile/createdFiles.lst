@@ -1,0 +1,9 @@
+io/repsy/storage/ObjectStorageAdapter.class
+io/repsy/RepsyRestApiApplication.class
+io/repsy/storage/StorageService.class
+io/repsy/repository/PackageMetadataRepository.class
+io/repsy/storage/FileSystemStorageAdapter.class
+io/repsy/controller/PackageController.class
+io/repsy/model/PackageMetadata.class
+io/repsy/model/PackageMetadata$PackageMetadataBuilder.class
+io/repsy/config/StorageConfig.class
